@@ -1,4 +1,5 @@
-let nomeHeroi = "ThorDraw";
+// Pontuação e nível do jogo
+let nomeHeroi = "Taili";
 let XP = 1000;
 let div;
 

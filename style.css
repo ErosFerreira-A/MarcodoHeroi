@@ -6,3 +6,11 @@
 #titulo {
     text-align: center;
 }
+
+body {
+    /* imagem de fundo */
+    background-image: url('backgroundGame.jpg');
+    background-size: contain;
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+}
