@@ -9,8 +9,15 @@
 
 body {
     /* imagem de fundo */
-    background-image: url('backgroundGame.jpg');
-    background-size: contain;
+    background-image: url('backgroundGame.png');
     background-size: 100% 1000px;
     background-repeat: no-repeat;
+}
+
+.piso01{
+    height: 250px;
+    width: 300px;
+    position: relative;
+    left: 800px;
+    top: 450px;
 }
